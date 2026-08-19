@@ -18,8 +18,8 @@ Me interesa especialmente el trabajo que ocurre después del prototipo: evaluaci
 
 - **[apk-docforge](https://github.com/alejandrojlamas/apk-docforge)** — pipeline local para analizar APK autorizados y generar documentación y auditorías respaldadas por evidencia.
 - **[MercadoRadar](https://github.com/alejandrojlamas/mercadoradar)** — laboratorio de señales explicables, calidad de datos y seguimiento de decisiones de mercado.
-- **[Red Privada](https://github.com/alejandrojlamas/Red-privada)** — investigación de fuentes públicas con grafos de conocimiento, procedencia y revisión humana.
-- **[Q-learning Snake](https://github.com/alejandrojlamas/q-learning-snake)** — experimento compacto de aprendizaje por refuerzo tabular con visualización en Python y navegador.
+- **[Red Privada](https://github.com/alejandrojlamas/red-privada)** — investigación de fuentes públicas con grafos de conocimiento, procedencia y revisión humana.
+- **[Q-learning Snake](https://github.com/alejandrojlamas/q-learning-snake)** — experimento compacto de aprendizaje por refuerzo tabular con visualización en Python y [demo web](https://alejandrojlamas.github.io/q-learning-snake/).
 
 ## Principios de trabajo
 
