@@ -1,36 +1,36 @@
 # Alejandro Lamas
 
-Este perfil es mi **laboratorio personal de IA aplicada**. Aquí diseño, construyo y pongo a prueba agentes, automatizaciones y herramientas locales que convierten procesos complejos en sistemas útiles, verificables y mantenibles.
+This profile is my **personal applied AI lab**. I design, build, and test agents, automations, and local-first tools that turn complex workflows into useful, verifiable, and maintainable systems.
 
 [alejandrojlamas.com](https://alejandrojlamas.com)
 
-Me interesa especialmente el trabajo que ocurre después del prototipo: evaluación, trazabilidad, límites de seguridad, recuperación ante fallos, calidad de los artefactos y una experiencia clara para la persona que usa el sistema.
+I am especially interested in the work that begins after a prototype: evaluation, traceability, security boundaries, failure recovery, artifact quality, and a clear experience for the person using the system.
 
-## Áreas de exploración
+## Areas of exploration
 
-- Agentes de IA con responsabilidades y salidas bien definidas.
-- Evaluación de calidad, fidelidad y evidencia antes de aceptar resultados.
-- Automatización local-first con privacidad, control humano y ejecución reproducible.
-- Flujos de documentos, investigación, análisis y toma de decisiones asistida.
-- Interfaces que hacen observables procesos largos o técnicamente complejos.
+- AI agents with well-defined responsibilities and outputs.
+- Quality, fidelity, and evidence checks before accepting a result.
+- Local-first automation with privacy, human control, and reproducible execution.
+- Document, research, analysis, and assisted decision-making workflows.
+- Interfaces that make long-running or technically complex processes observable.
 
-## Proyectos destacados
+## Featured projects
 
-- **[Traductor y estilizador de libros](https://github.com/alejandrojlamas/Traductor-y-estilizador-de-libros)** — laboratorio local-first para traducción de libros con memoria editorial, auditoría de fidelidad, recuperación de procesos y revisión humana.
-- **[apk-docforge](https://github.com/alejandrojlamas/apk-docforge)** — pipeline local para analizar APK autorizados y generar documentación y auditorías respaldadas por evidencia.
-- **[MercadoRadar](https://github.com/alejandrojlamas/mercadoradar)** — laboratorio de señales explicables, calidad de datos y seguimiento de decisiones de mercado.
-- **[Red Privada](https://github.com/alejandrojlamas/red-privada)** — investigación de fuentes públicas con grafos de conocimiento, procedencia y revisión humana.
-- **[Q-learning Snake](https://github.com/alejandrojlamas/q-learning-snake)** — experimento compacto de aprendizaje por refuerzo tabular con visualización en Python y [demo web](https://alejandrojlamas.github.io/q-learning-snake/).
-- **[Neon Snake](https://github.com/alejandrojlamas/neon-snake-game)** — juego web compacto usado como ejercicio de lógica determinista, pruebas automatizadas y entrega continua.
+- **[VerbaLoom](https://github.com/alejandrojlamas/verbaloom)** — local-first long-book translation with editorial memory, fidelity audits, resumable quality gates, and human review.
+- **[APK DocForge](https://github.com/alejandrojlamas/apk-docforge)** — a local pipeline for analyzing authorized APKs and producing evidence-backed documentation and audits.
+- **[Evidence Graph Lab](https://github.com/alejandrojlamas/evidence-graph-lab)** — public-source research with knowledge graphs, provenance, entity resolution, and human review.
+- **[Market Radar](https://github.com/alejandrojlamas/market-radar)** — an explainable-signals lab for market data quality and decision tracking.
+- **[Q-learning Snake](https://github.com/alejandrojlamas/q-learning-snake)** — a compact tabular reinforcement-learning experiment with Python visualization and a [browser demo](https://alejandrojlamas.github.io/q-learning-snake/).
+- **[Neon Snake](https://github.com/alejandrojlamas/neon-snake-game)** — a compact web game used to exercise deterministic logic, automated tests, and continuous delivery.
 
-## Principios de trabajo
+## Working principles
 
-1. La evidencia vale más que una afirmación de éxito.
-2. Los datos sensibles y las credenciales no pertenecen al repositorio.
-3. Un flujo útil debe poder reanudarse, auditarse y probarse.
-4. La IA propone o transforma; los límites críticos siguen siendo deterministas.
-5. La documentación forma parte del producto.
+1. Evidence matters more than a claim of success.
+2. Sensitive data and credentials do not belong in a repository.
+3. A useful workflow should be resumable, auditable, and testable.
+4. AI proposes or transforms; critical boundaries remain deterministic.
+5. Documentation is part of the product.
 
-## Actualmente
+## Currently
 
-Estoy abierto a oportunidades donde la IA aplicada, la automatización y el diseño de sistemas confiables puedan resolver problemas reales de principio a fin.
+I am open to opportunities where applied AI, automation, and reliable systems design can solve real problems end to end.
