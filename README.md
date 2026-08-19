@@ -16,10 +16,12 @@ Me interesa especialmente el trabajo que ocurre después del prototipo: evaluaci
 
 ## Proyectos destacados
 
+- **[Traductor y estilizador de libros](https://github.com/alejandrojlamas/Traductor-y-estilizador-de-libros)** — laboratorio local-first para traducción de libros con memoria editorial, auditoría de fidelidad, recuperación de procesos y revisión humana.
 - **[apk-docforge](https://github.com/alejandrojlamas/apk-docforge)** — pipeline local para analizar APK autorizados y generar documentación y auditorías respaldadas por evidencia.
 - **[MercadoRadar](https://github.com/alejandrojlamas/mercadoradar)** — laboratorio de señales explicables, calidad de datos y seguimiento de decisiones de mercado.
 - **[Red Privada](https://github.com/alejandrojlamas/red-privada)** — investigación de fuentes públicas con grafos de conocimiento, procedencia y revisión humana.
 - **[Q-learning Snake](https://github.com/alejandrojlamas/q-learning-snake)** — experimento compacto de aprendizaje por refuerzo tabular con visualización en Python y [demo web](https://alejandrojlamas.github.io/q-learning-snake/).
+- **[Neon Snake](https://github.com/alejandrojlamas/neon-snake-game)** — juego web compacto usado como ejercicio de lógica determinista, pruebas automatizadas y entrega continua.
 
 ## Principios de trabajo
 
