@@ -16,7 +16,7 @@ I am especially interested in the work that begins after a prototype: evaluation
 
 ## Featured projects
 
-- **[VerbaLoom](https://github.com/alejandrojlamas/verbaloom)** — local-first long-book translation with editorial memory, fidelity audits, resumable quality gates, and human review.
+- **[VerbaLoom](https://github.com/alejandrojlamas/verbaloom)** — the flagship project of this lab: local-first AI translation for long books, with editorial memory, fidelity audits, resumable quality gates, and human review.
 - **[APK DocForge](https://github.com/alejandrojlamas/apk-docforge)** — a local pipeline for analyzing authorized APKs and producing evidence-backed documentation and audits.
 - **[Evidence Graph Lab](https://github.com/alejandrojlamas/evidence-graph-lab)** — public-source research with knowledge graphs, provenance, entity resolution, and human review.
 - **[Market Radar](https://github.com/alejandrojlamas/market-radar)** — an explainable-signals lab for market data quality and decision tracking.
