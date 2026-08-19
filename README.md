@@ -2,6 +2,8 @@
 
 Este perfil es mi **laboratorio personal de IA aplicada**. Aquí diseño, construyo y pongo a prueba agentes, automatizaciones y herramientas locales que convierten procesos complejos en sistemas útiles, verificables y mantenibles.
 
+[alejandrojlamas.com](https://alejandrojlamas.com)
+
 Me interesa especialmente el trabajo que ocurre después del prototipo: evaluación, trazabilidad, límites de seguridad, recuperación ante fallos, calidad de los artefactos y una experiencia clara para la persona que usa el sistema.
 
 ## Áreas de exploración
@@ -30,4 +32,3 @@ Me interesa especialmente el trabajo que ocurre después del prototipo: evaluaci
 ## Actualmente
 
 Estoy abierto a oportunidades donde la IA aplicada, la automatización y el diseño de sistemas confiables puedan resolver problemas reales de principio a fin.
-
