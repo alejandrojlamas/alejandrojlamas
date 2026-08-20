@@ -17,8 +17,8 @@ I am especially interested in the work that begins after a prototype: evaluation
 ## Featured projects
 
 - **[VerbaLoom](https://github.com/alejandrojlamas/verbaloom)** — the flagship project of this lab: local-first AI translation for long books, with editorial memory, fidelity audits, resumable quality gates, and human review.
+- **[Red Privada](https://github.com/alejandrojlamas/red-privada)** — an AI-assisted research lab for provenance-aware knowledge graphs and human review, named in homage to journalist Manuel Buendía and his column *Red Privada*.
 - **[APK DocForge](https://github.com/alejandrojlamas/apk-docforge)** — a local pipeline for analyzing authorized APKs and producing evidence-backed documentation and audits.
-- **[Evidence Graph Lab](https://github.com/alejandrojlamas/evidence-graph-lab)** — public-source research with knowledge graphs, provenance, entity resolution, and human review.
 - **[Market Radar](https://github.com/alejandrojlamas/market-radar)** — an explainable-signals lab for market data quality and decision tracking.
 - **[Q-learning Snake](https://github.com/alejandrojlamas/q-learning-snake)** — a compact tabular reinforcement-learning experiment with Python visualization and a [browser demo](https://alejandrojlamas.github.io/q-learning-snake/).
 - **[Neon Snake](https://github.com/alejandrojlamas/neon-snake-game)** — a compact web game used to exercise deterministic logic, automated tests, and continuous delivery.
